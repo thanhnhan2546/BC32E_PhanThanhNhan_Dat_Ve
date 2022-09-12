@@ -1,0 +1,2 @@
+export const CLICK_BUTTON_GHE = "CLICK_BUTTON_GHE";
+export const CLICK_BUTTON_HUY = "CLICK_BUTTON_HUY";
